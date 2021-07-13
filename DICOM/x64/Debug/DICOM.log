@@ -1,0 +1,111 @@
+﻿  pch.cpp
+  AppDocument.cpp
+d:\mfcprj\dicom\dicom\appdocument.cpp(157): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\mfcprj\dicom\dicom\appdocument.cpp(158): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\mfcprj\dicom\dicom\appdocument.cpp(212): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\mfcprj\dicom\dicom\appdocument.cpp(213): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  CProgressDialog.cpp
+  Contours.cpp
+  DICOM.cpp
+  DICOMDoc.cpp
+  DICOMView.cpp
+  DetectMarker.cpp
+d:\mfcprj\dicom\dicom\detectmarker.cpp(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mfcprj\dicom\dicom\detectmarker.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\mfcprj\dicom\dicom\detectmarker.cpp(57): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\mfcprj\dicom\dicom\detectmarker.cpp(72): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  DrawMarker.cpp
+  GenerateMask.cpp
+d:\mfcprj\dicom\dicom\generatemask.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\generatemask.cpp(7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\generatemask.cpp(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\generatemask.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Image.cpp
+  ImageSlices.cpp
+d:\mfcprj\dicom\dicom\imageslices.cpp(10): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+d:\mfcprj\dicom\dicom\imageslices.cpp(32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(65): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(71): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\mfcprj\dicom\dicom\imageslices.cpp(88): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(104): warning C4244: '+=': conversion from 'const float' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(121): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\mfcprj\dicom\dicom\imageslices.cpp(128): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  MainFrm.cpp
+d:\mfcprj\dicom\dicom\mainfrm.cpp(47): warning C4002: too many arguments for function-like macro invocation 'ON_WM_MOUSEWHEEL'
+d:\mfcprj\dicom\dicom\mainfrm.cpp(382): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\mainfrm.cpp(386): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\mainfrm.cpp(469): warning C4129: 'H': unrecognized character escape sequence
+d:\mfcprj\dicom\dicom\mainfrm.cpp(651): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'float', possible loss of data
+d:\mfcprj\dicom\dicom\mainfrm.cpp(666): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  PostProcessing.cpp
+  Slice.cpp
+  Volume.cpp
+  WindowController.cpp
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(84): warning C4244: 'argument': conversion from 'Float64' to 'const int', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(85): warning C4244: 'argument': conversion from 'Float64' to 'const float', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(95): warning C4244: 'argument': conversion from 'Float64' to 'const float', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(152): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(220): warning C4311: 'type cast': pointer truncation from 'const char *' to 'int'
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(220): warning C4302: 'type cast': truncation from 'const char *' to 'int'
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(245): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+d:\mfcprj\dicom\dicom\windowcontroller.cpp(246): warning C4244: '=': conversion from '_Ty' to '_Tp', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  Generating Code...
+  DICOM.vcxproj -> D:\MFCPrj\DICOM\x64\Debug\DICOM.exe
